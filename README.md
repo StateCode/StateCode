@@ -25,6 +25,8 @@ My expertise includes:
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
 ![Pytohn](https://img.shields.io/badge/-python-333?style=for-the-badge)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StateCode&layout=compact&theme=dark)
 
