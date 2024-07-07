@@ -1,5 +1,5 @@
 <br><br>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&color=00FF00&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hello+there!;My+name+is+Baga!;I+am+a+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&color=00FF00&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hello+World!;My+name+is+State!;I+am+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 ## 💬 About me:                                                   
 I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications. I have worked on various projects ranging from small business websites to large-scale enterprise applications<br> 
@@ -29,9 +29,6 @@ My expertise includes:
 <!--[Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)-->
 
 ## 🌍 Social networks: 
-[![Tik Tok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bagaprog)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bakzhan.baken/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/profile/BagaProg)
 
 ## ⚡Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=BagaProg&theme=dark&hide_border=true)](https://git.io/streak-stats)
