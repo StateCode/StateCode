@@ -13,11 +13,19 @@ My expertise includes:
 > I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to  any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions                                 
                                                                                                                                                                                                                      
 ## 💻 Skills:       
-![CSS](https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-CA4245?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
+![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
 
 ## 🔨 Tools:
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
