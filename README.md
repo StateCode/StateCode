@@ -24,16 +24,13 @@ My expertise includes:
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
-![Pytohn](https://img.shields.io/badge/-python-333?style=for-the-badge)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StateCode&layout=compact&theme=dark)
 
 ## 🔨 Tools:
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Py Charm](https://img.shields.io/badge/pycharm-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Notepad++](https://img.shields.io/badge/notepadplusplus-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🌍 Social networks: 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/profile/StateCode)
