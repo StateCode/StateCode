@@ -1,5 +1,5 @@
 <br><br>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&color=00FF00&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hello+World!;My+name+is+State!;I+am+a+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&color=00FF00&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hello+World!;;I+am+State..." alt="Typing SVG" /></a>
 
 ## 💬 About me:                                                   
 I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications. I have worked on various projects ranging from small business websites to large-scale enterprise applications<br> 
