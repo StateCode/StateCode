@@ -30,8 +30,7 @@ My expertise includes:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StateCode&layout=compact&theme=dark) -->
 
 ## 🔨 Tools:
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IDA Pro](https://img.shields.io/badge/-IDA%20Pro%20-05122A?style=flat)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🌍 Social networks: 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/profile/StateCode)
